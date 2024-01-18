@@ -1,4 +1,4 @@
 Enter your details below:
 
 * first_name: Aurore
-* last_name: Pistono de Saint-Aignan
+* last_name: Pistono
